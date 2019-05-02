@@ -1,2 +1,2 @@
 # Galvanize_Final_EXCEL
-Excel Repository - Pivot Table, Lookup - Reviews Data Set
+An Excel Repository containing the following - Pivot Table, Lookup (Reviews Data Set)
